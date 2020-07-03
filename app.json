@@ -1,7 +1,7 @@
 {
-  "name": "TechnoAyanBoT",
-  "description": "Extended Version of Uniborg By @TechnoAyanOfficial",
-  "logo": "https://telegra.ph/file/c40c645eb602e192ec442.jpg",
+  "name": "UserBot",
+  "description": "Extended Version of Uniborg ",
+  "logo": "https://telegra.ph/file/f0687b9e9c5fda216ad09.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/TechnoAyanOfficial/TechnoAyanBoT",
+  "repository": "https://github.com/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
